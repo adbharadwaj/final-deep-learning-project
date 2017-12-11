@@ -1,0 +1,7 @@
+experiment,accuracy,precision,recall,f1
+batch_size_32,0.956,0.066,0.761,0.121
+batch_size_64,0.937,0.088,0.793,0.158
+batch_size_128,0.958,0.085,0.843,0.154
+batch_size_256,0.938,0.076,0.864,0.139
+batch_size_512,0.931,0.064,0.867,0.12
+batch_size_1024,0.919,0.051,0.847,0.097
