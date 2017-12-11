@@ -1,0 +1,4 @@
+experiment,accuracy,precision,recall,f1
+leave_pos_embedding_out,0.953,0.082,0.893,0.15
+leave_position_embedding_out,0.952,0.067,0.869,0.124
+leave_word_embedding_out,0.625,0.032,0.832,0.061
